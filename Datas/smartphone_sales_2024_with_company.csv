@@ -1,0 +1,101 @@
+ProductID,ProductName,SalesDate,Sales,Brand,Company
+1,Apple iPhone 16,2024-09-26,2314,Apple,Apple
+2,Vivo X100,2024-12-25,1478,Vivo,Vivo
+3,Samsung Galaxy S24,2024-05-16,1016,Samsung,Samsung
+4,Asus ROG Phone 7,2024-03-03,1123,Asus,Asus
+5,Xiaomi Mi 14,2024-12-27,4547,Xiaomi,Xiaomi
+6,Sony Xperia 1 VI,2024-12-04,928,Sony,Sony
+7,Vivo X100,2024-06-01,1874,Vivo,Vivo
+8,Asus ROG Phone 7,2024-06-06,3866,Asus,Asus
+9,Apple iPhone 16,2024-10-24,4569,Apple,Apple
+10,Realme GT 5,2024-06-26,2065,Realme,Realme
+11,OnePlus 12,2024-03-21,4175,OnePlus,OnePlus
+12,Apple iPhone 16,2024-11-05,1956,Apple,Apple
+13,Realme GT 5,2024-10-08,2357,Realme,Realme
+14,Google Pixel 9,2024-03-20,1234,Google,Google
+15,Oppo Find X7,2024-11-22,913,Oppo,Oppo
+16,Samsung Galaxy S24,2024-08-09,3885,Samsung,Samsung
+17,OnePlus 12,2024-11-07,1503,OnePlus,OnePlus
+18,Realme GT 5,2024-09-22,578,Realme,Realme
+19,Vivo X100,2024-07-21,2649,Vivo,Vivo
+20,Sony Xperia 1 VI,2024-09-22,4565,Sony,Sony
+21,Realme GT 5,2024-02-20,4052,Realme,Realme
+22,Samsung Galaxy S24,2024-10-16,1013,Samsung,Samsung
+23,Samsung Galaxy S24,2024-08-02,2922,Samsung,Samsung
+24,Samsung Galaxy S24,2024-04-28,3944,Samsung,Samsung
+25,OnePlus 12,2024-08-12,4932,OnePlus,OnePlus
+26,OnePlus 12,2024-05-13,3474,OnePlus,OnePlus
+27,Sony Xperia 1 VI,2024-09-15,1986,Sony,Sony
+28,OnePlus 12,2024-02-19,1309,OnePlus,OnePlus
+29,Asus ROG Phone 7,2024-03-16,4139,Asus,Asus
+30,OnePlus 12,2024-12-04,2346,OnePlus,OnePlus
+31,Realme GT 5,2024-03-10,1236,Realme,Realme
+32,Samsung Galaxy S24,2024-07-07,1663,Samsung,Samsung
+33,Oppo Find X7,2024-03-22,3076,Oppo,Oppo
+34,Xiaomi Mi 14,2024-10-11,4698,Xiaomi,Xiaomi
+35,Samsung Galaxy S24,2024-03-23,3139,Samsung,Samsung
+36,OnePlus 12,2024-06-06,2056,OnePlus,OnePlus
+37,Oppo Find X7,2024-08-11,2038,Oppo,Oppo
+38,OnePlus 12,2024-11-19,3624,OnePlus,OnePlus
+39,Asus ROG Phone 7,2024-01-02,2221,Asus,Asus
+40,Sony Xperia 1 VI,2024-03-21,1707,Sony,Sony
+41,Apple iPhone 16,2024-11-02,2708,Apple,Apple
+42,Apple iPhone 16,2024-01-06,3025,Apple,Apple
+43,Oppo Find X7,2024-09-16,3108,Oppo,Oppo
+44,Apple iPhone 16,2024-10-06,3091,Apple,Apple
+45,Xiaomi Mi 14,2024-06-19,850,Xiaomi,Xiaomi
+46,Sony Xperia 1 VI,2024-06-10,2985,Sony,Sony
+47,Samsung Galaxy S24,2024-05-16,1853,Samsung,Samsung
+48,Google Pixel 9,2024-04-19,2644,Google,Google
+49,Vivo X100,2024-07-28,4798,Vivo,Vivo
+50,Google Pixel 9,2024-03-27,912,Google,Google
+51,Vivo X100,2024-07-22,2757,Vivo,Vivo
+52,OnePlus 12,2024-07-04,2350,OnePlus,OnePlus
+53,Vivo X100,2024-02-01,2394,Vivo,Vivo
+54,Oppo Find X7,2024-10-27,3735,Oppo,Oppo
+55,Xiaomi Mi 14,2024-11-16,4645,Xiaomi,Xiaomi
+56,Oppo Find X7,2024-04-26,2647,Oppo,Oppo
+57,OnePlus 12,2024-12-03,1113,OnePlus,OnePlus
+58,Realme GT 5,2024-05-09,632,Realme,Realme
+59,Sony Xperia 1 VI,2024-12-01,4573,Sony,Sony
+60,Samsung Galaxy S24,2024-04-11,2533,Samsung,Samsung
+61,Oppo Find X7,2024-12-12,1826,Oppo,Oppo
+62,Xiaomi Mi 14,2024-11-07,2738,Xiaomi,Xiaomi
+63,Realme GT 5,2024-10-05,4159,Realme,Realme
+64,Apple iPhone 16,2024-07-28,565,Apple,Apple
+65,Samsung Galaxy S24,2024-11-18,1263,Samsung,Samsung
+66,Xiaomi Mi 14,2024-05-15,834,Xiaomi,Xiaomi
+67,Realme GT 5,2024-12-03,3640,Realme,Realme
+68,Samsung Galaxy S24,2024-06-21,1185,Samsung,Samsung
+69,Oppo Find X7,2024-12-05,4199,Oppo,Oppo
+70,Asus ROG Phone 7,2024-06-14,2718,Asus,Asus
+71,Realme GT 5,2024-12-18,3048,Realme,Realme
+72,Sony Xperia 1 VI,2024-07-18,1103,Sony,Sony
+73,Realme GT 5,2024-12-24,2887,Realme,Realme
+74,OnePlus 12,2024-06-28,3865,OnePlus,OnePlus
+75,Sony Xperia 1 VI,2024-03-19,2375,Sony,Sony
+76,Google Pixel 9,2024-06-19,986,Google,Google
+77,Sony Xperia 1 VI,2024-08-06,4091,Sony,Sony
+78,Xiaomi Mi 14,2024-10-11,506,Xiaomi,Xiaomi
+79,Samsung Galaxy S24,2024-09-09,3837,Samsung,Samsung
+80,Samsung Galaxy S24,2024-05-06,1338,Samsung,Samsung
+81,Vivo X100,2024-01-26,4902,Vivo,Vivo
+82,Realme GT 5,2024-04-17,3955,Realme,Realme
+83,Xiaomi Mi 14,2024-07-20,4051,Xiaomi,Xiaomi
+84,Apple iPhone 16,2024-04-12,1472,Apple,Apple
+85,Sony Xperia 1 VI,2024-03-12,1955,Sony,Sony
+86,Samsung Galaxy S24,2024-03-11,4359,Samsung,Samsung
+87,Oppo Find X7,2024-05-22,1225,Oppo,Oppo
+88,Realme GT 5,2024-06-05,2414,Realme,Realme
+89,Apple iPhone 16,2024-09-13,1772,Apple,Apple
+90,Xiaomi Mi 14,2024-10-26,1510,Xiaomi,Xiaomi
+91,Realme GT 5,2024-08-23,2560,Realme,Realme
+92,Asus ROG Phone 7,2024-01-16,2621,Asus,Asus
+93,Oppo Find X7,2024-12-04,2629,Oppo,Oppo
+94,Samsung Galaxy S24,2024-01-06,2426,Samsung,Samsung
+95,Apple iPhone 16,2024-08-04,4764,Apple,Apple
+96,Xiaomi Mi 14,2024-03-10,1977,Xiaomi,Xiaomi
+97,Sony Xperia 1 VI,2024-01-12,1876,Sony,Sony
+98,Apple iPhone 16,2024-11-04,1385,Apple,Apple
+99,Apple iPhone 16,2024-08-14,4108,Apple,Apple
+100,Sony Xperia 1 VI,2024-11-10,2595,Sony,Sony
